@@ -1,0 +1,45 @@
+* {
+  display: grid;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  width: max-content;
+  font-family: "Zen Kaku Gothic Antique", "Poppins", "Roboto";
+  scroll-behavior: smooth;
+  scroll-snap-align: start;
+  color: inherit;
+  position: relative;
+  user-select: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  overflow-x: hidden;
+  font-weight: 500;
+}
+
+title {
+  display: none;
+}
+
+style {
+  display: none;
+}
+
+body {
+  width: 100vw;
+  min-height: 100vh;
+  color: #15023a;
+}
+
+* {
+  text-decoration: none;
+  color: inherit;
+}
+
+button {
+  border: none;
+  background: none;
+  text-decoration: none;
+  color: inherit;
+}
