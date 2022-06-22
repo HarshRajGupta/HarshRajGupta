@@ -2,12 +2,12 @@ import { useState, memo } from 'react';
 import Styled from 'styled-components';
 import PersonIcon from '@mui/icons-material/Person';
 import EmailIcon from '@mui/icons-material/Email';
-import HamburgerMenu from './Hamburger'
+import HamburgerMenu from './Hamburger';
 
 function TopBar({ message, setMessage }) {
     const [menuOpen, setMenuOpen] = useState(false);
     return (
-        <Container menu={menuOpen}>
+        <Container className={menuOpen && 'active'}>
             <HamburgerMenu showMenu={menuOpen} setMenu={setMenuOpen} />
             <Wrap>
                 <LeftBar>
@@ -48,7 +48,7 @@ function TopBar({ message, setMessage }) {
                 <RightBar>
                     <HamBurger
                         onClick={() => setMenuOpen(!menuOpen)}
-                        menu={menuOpen}
+                        className={menuOpen && 'active'}
                     >
                         <span></span>
                         <span></span>
@@ -59,6 +59,20 @@ function TopBar({ message, setMessage }) {
         </Container>
     );
 }
+
+const Container = Styled.div`
+    width: 100vw;
+    height: 70px;
+    position: fixed; 
+    top: 0;
+    z-index: 3;
+    background-color: white;
+    transition: all 1s ease, width 0s, height 0s;
+    &.active {
+        background-color: #15023a;
+        color: #fff;
+    }
+`;
 
 const Wrap = Styled.div`
     width:100%;
@@ -85,6 +99,9 @@ const ItemContainer = Styled.div`
     grid-gap: 8px;
     align-items: center;
     cursor: default;
+    @media (max-width: 768px) {
+        display: none
+      }
 `;
 const ItemText = Styled.div`
     font-family: Poppins, Roboto;
@@ -106,27 +123,26 @@ const HamBurger = Styled.div`
         height: 2.5px;
         background-color: #15023a;
         transform-origin: right;
-        transition: all 1.5s ease;
+        transition: transform 1.5s ease;
         border-radius: 256px;
     }
-    ${(props) =>
-        props.menu
-            ? 'height: 32px; grid-gap: 1px; span { &:first-child { background-color: #fff; transform: rotate(-45deg);} &:nth-child(2) {opacity: 0;} &:last-child {background-color: #fff; transform: rotate(45deg);}}'
-            : ''};
-`;
-
-const Container = Styled.div`
-    width: 100vw;
-    height: 70px;
-    position: fixed; 
-    top: 0;
-    z-index: 5;
-    transition: all 1s ease-in-out;
-    background-color: #fff;
-    ${(props) =>
-        props.menu
-            ? 'color: #fff; background: linear-gradient(45deg, #15023a, #00194f, #15023a)'
-            : 'color: #15023a; background: #fff;'};
+    &.active { 
+        grid-gap: 0.4px; 
+        span { 
+            &:first-child { 
+                background-color: #fff; 
+                transform: rotate(-45deg);
+            } 
+            &:nth-child(2) {
+                opacity: 0;
+            } 
+            &:last-child {
+                background-color: #fff; 
+                transform: rotate(45deg);
+            }
+        }
+        height: 32px;
+    }
 `;
 
 export default memo(TopBar);

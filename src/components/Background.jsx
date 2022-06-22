@@ -59,7 +59,7 @@ function Background() {
                         },
                         onHover: {
                             enable: true,
-                            mode: ['attract', 'trail'],
+                            mode: [ 'trail'],
                             parallax: {
                                 enable: false,
                                 force: 2,

@@ -71,13 +71,13 @@ const Link = Styled.a`
     margin: 0 auto;
     width: max-content;
     text-decoration: none;
-    font-family: Montserrat;
+    font-family: "Zen Kaku Gothic Antique";
     font-size: 30px;
     text-align: center;
-    font-weight: 300;
+    font-weight: 400;
     display: inline-block;
     position: relative;
-    transition-delay: 500ms;
+    transition-delay: 250ms;
     text-transform: capitalize;
     &::after {
         content: '';
@@ -99,7 +99,7 @@ const Link = Styled.a`
     }
     &:hover {
         color: #15023a;
-        font-weight: 700;
+        font-weight: 900;
         opacity: 0.75;
         transition-delay: 0s;
     }
