@@ -2,17 +2,17 @@ import { useState, memo } from 'react';
 import Styled from 'styled-components';
 import PersonIcon from '@mui/icons-material/Person';
 import EmailIcon from '@mui/icons-material/Email';
-import HamburgerMenu from './Hamburger';
+import Hamburger from './Hamburger';
 
 function TopBar({ message, setMessage }) {
     const [menuOpen, setMenuOpen] = useState(false);
     return (
-        <Container className={menuOpen && 'active'}>
-            <HamburgerMenu showMenu={menuOpen} setMenu={setMenuOpen} />
+        <Container className={(menuOpen && 'active')}>
+            <Hamburger showMenu={menuOpen} setMenu={setMenuOpen} />
             <Wrap>
                 <LeftBar>
-                    <HyperLink href="#intro">harsh.</HyperLink>
-                    <ItemContainer>
+                    <MyName href="#intro">harsh.</MyName>
+                    <Item>
                         <PersonIcon />
                         <ItemText
                             onClick={() => {
@@ -26,8 +26,8 @@ function TopBar({ message, setMessage }) {
                         >
                             +91 7607642202
                         </ItemText>
-                    </ItemContainer>
-                    <ItemContainer>
+                    </Item>
+                    <Item>
                         <EmailIcon />
                         <ItemText
                             onClick={() => {
@@ -43,12 +43,12 @@ function TopBar({ message, setMessage }) {
                         >
                             1amHarsh.RG@gmail.com
                         </ItemText>
-                    </ItemContainer>
+                    </Item>
                 </LeftBar>
                 <RightBar>
                     <HamBurger
                         onClick={() => setMenuOpen(!menuOpen)}
-                        className={menuOpen && 'active'}
+                        className={(menuOpen && 'active')}
                     >
                         <span></span>
                         <span></span>
@@ -60,22 +60,8 @@ function TopBar({ message, setMessage }) {
     );
 }
 
-const Container = Styled.div`
-    width: 100vw;
-    height: 70px;
-    position: fixed; 
-    top: 0;
-    z-index: 3;
-    background-color: white;
-    transition: all 1s ease, width 0s, height 0s;
-    &.active {
-        background-color: #15023a;
-        color: #fff;
-    }
-`;
-
 const Wrap = Styled.div`
-    width:100%;
+    width: 100%;
     padding: 10px 30px;
     align-items: center;
     justify-content: space-between;
@@ -86,33 +72,35 @@ const LeftBar = Styled.div`
     grid-template-columns: auto auto auto;
     align-items: center;
     grid-gap: 70px;
+    @media (max-width: 1280px) {
+        grid-template-columns: auto
+    }
 `;
 
-const HyperLink = Styled.a`
-    font-size: 44px;
+const MyName = Styled.a`
+    font-size: 42px;
     font-weight: 600;
     text-decoration: none;
     font-family: Poppins;
-    @media (max-width: 1280px) {
-        font-size: 28px;
+    @media (max-width: 540px) {
+        font-size: 24px;
     }
 `;
-const ItemContainer = Styled.div`
+const Item = Styled.div`
     grid-template-columns: auto auto;
     grid-gap: 8px;
     align-items: center;
     cursor: default;
-    @media (max-width: 768px) {
-        display: none
-      }
+    @media (max-width: 1280px) {
+        display: none;
+    }
 `;
 const ItemText = Styled.div`
-    font-family: Poppins, Roboto;
+    font-family: Poppins;
     font-size: 14px;
     font-weight: 600;
 `;
 const RightBar = Styled.div`
-    width: 100%;
 `;
 
 const HamBurger = Styled.div`
@@ -121,30 +109,49 @@ const HamBurger = Styled.div`
     height: 18px;
     cursor: pointer;
     overflow: hidden;
+    align-items: center;
     span {
         width: 100%;
         height: 2.5px;
         background-color: #15023a;
         transform-origin: right;
-        transition: transform 1.5s ease;
+        transition: all 1.5s ease;
         border-radius: 256px;
     }
-    &.active { 
-        grid-gap: 0.4px; 
+    &.active {
+        height: 32px; 
+        grid-gap: 1px; 
         span { 
             &:first-child { 
                 background-color: #fff; 
                 transform: rotate(-45deg);
             } 
             &:nth-child(2) {
-                opacity: 0;
+                display: none;
             } 
             &:last-child {
                 background-color: #fff; 
                 transform: rotate(45deg);
             }
         }
-        height: 32px;
+    }
+`;
+
+const Container = Styled.div`
+    width: 100vw;
+    height: 70px;
+    position: fixed; 
+    top: 0;
+    z-index: 5;
+    transition: all 0.5s ease-in-out;
+    transform: width 0s, height 0s;
+    color: #15023a; 
+    &.active {
+        color: #fff; 
+        background: #15023a;
+    }
+    @media (max-width: 540px) {
+        height: 56px;
     }
 `;
 

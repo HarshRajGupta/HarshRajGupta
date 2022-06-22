@@ -1,19 +1,24 @@
-import { memo } from 'react';
+import { Suspense, memo, lazy } from 'react';
 import styled from 'styled-components';
-import Background from './components/Background';
-import TopBar from './components/Topbar';
-import Intro from './container/Intro';
-import Portfolio from './container/portfolio';
+
+const Background = lazy(() => import('./components/Background'));
+const TopBar = lazy(() => import('./components/Topbar'));
+const Intro = lazy(() => import('./container/Intro'));
+const Portfolio = lazy(() => import('./container/Portfolio'));
+const Projects = lazy(() => import('./container/Projects'));
 
 function App() {
     return (
         <Container>
-            <TopBar />
-            <Sections>
-                <Intro />
-                <Portfolio />
-            </Sections>
-            <Background backGroundColor="#000" />
+            <Suspense fallback={<div>Loading...</div>}>
+                <TopBar />
+                <Sections>
+                    <Intro />
+                    <Portfolio />
+                    <Projects />
+                </Sections>
+                <Background />
+            </Suspense>
         </Container>
     );
 }
@@ -39,6 +44,13 @@ const Sections = styled.main`
         height: calc(100vh - 70px);
     }
     scroll-snap-type: y mandatory;
+    @media (max-width: 540px) {
+        height: calc(100vh - 56px);
+        top: 56px;
+        > * {
+            height: calc(100vh - 56px);
+        }
+    }
 `;
 
 export default memo(App);

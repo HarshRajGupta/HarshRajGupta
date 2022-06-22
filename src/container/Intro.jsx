@@ -83,9 +83,11 @@ const Image = Styled.img`
 `;
 
 const Right = Styled.div`
-    justify-content: center;
-    align-items: center;
     padding: 50px;
+    justify-content: space-around;
+    @media (min-width: 1280px) {
+        align-items: center;
+    }
     @media (max-width: 1280px) {
         width: 100vw;
     }
@@ -99,7 +101,7 @@ const Wrap = Styled.ul`
     -moz-user-select: none;
     -ms-user-select: none;
     @media (max-width: 1280px) {
-        padding: 0.8rem;
+        padding: 0rem;
         text-align: center;
     }
 `;
@@ -110,6 +112,9 @@ const LineOne = Styled.li`
     @media (max-width: 1280px) {
         margin: 0 auto;
     }
+    @media (max-width: 414px) {
+        font-size: 20px
+    }
 `;
 
 const LineTwo = Styled.li`
@@ -119,15 +124,22 @@ const LineTwo = Styled.li`
     font-weight: 500;
     cursor: none;
     width: 100%;
+    @media (max-width: 414px) {
+        font-size: 48px
+    }
 `;
 
 const LineThree = Styled.li`
     width: 360px;
+    font-size: 32px;
     @media (max-width: 1280px) {
         margin: 0 auto;
     }
+    @media (max-width: 414px) {
+        font-size: 24px;
+        width: 269px;
+    }
     * {
-        font-size: 32px;
         display: inline;
     }
     span {

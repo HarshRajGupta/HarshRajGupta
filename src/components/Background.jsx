@@ -2,14 +2,15 @@ import { memo } from 'react';
 import Particles from 'react-tsparticles';
 import { loadFull } from 'tsparticles';
 
-function Background() {
-    const particlesInit = async (main) => {
-        await loadFull(main);
-    };
+const particlesInit = async (main) => {
+    await loadFull(main);
+};
 
-    const particlesLoaded = (container) => {
-        console.log(container);
-    };
+const particlesLoaded = (container) => {
+    console.log("Welcome");
+};
+
+function Background() {
     return (
         <Particles
             id="tsparticles"
