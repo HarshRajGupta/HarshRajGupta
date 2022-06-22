@@ -3,6 +3,7 @@ import styled from 'styled-components';
 import Background from './components/Background';
 import TopBar from './components/Topbar';
 import Intro from './container/Intro';
+import Portfolio from './container/portfolio';
 
 function App() {
     return (
@@ -10,29 +11,34 @@ function App() {
             <TopBar />
             <Sections>
                 <Intro />
+                <Portfolio />
             </Sections>
-            <Background backGroundColor="#000"/>
+            <Background backGroundColor="#000" />
         </Container>
     );
 }
 
 const Container = styled.div`
     height: 100vh;
-    /* background: #15023a; */
-    /* color: white; */
 `;
 
 const Sections = styled.main`
-    width: 100vw;
+    width: 100%;
     height: calc(100vh - 70px);
+    position: relative;
     top: 70px;
-    scroll-behavior: smooth;
-    scroll-snap-type: y mandatory;
-    scrollbar-width: none; //for firefox
+    overflow-y: scroll;
+
+    scrollbar-width: none;
     &::-webkit-scrollbar {
         display: none;
     }
-    scroll-snap-align: start;
+
+    > * {
+        width: 100vw;
+        height: calc(100vh - 70px);
+    }
+    scroll-snap-type: y mandatory;
 `;
 
 export default memo(App);

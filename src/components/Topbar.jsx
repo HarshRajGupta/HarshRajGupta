@@ -93,6 +93,9 @@ const HyperLink = Styled.a`
     font-weight: 600;
     text-decoration: none;
     font-family: Poppins;
+    @media (max-width: 1280px) {
+        font-size: 28px;
+    }
 `;
 const ItemContainer = Styled.div`
     grid-template-columns: auto auto;
