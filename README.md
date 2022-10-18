@@ -28,6 +28,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshrajgupta&label=Profile%20views&color=0e75b6&style=flat" alt="harshrajgupta" /> </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=harshrajgupta&theme=onedark)](https://github.com/harshrajgupta)
+![board](https://user-images.githubusercontent.com/85221003/196502249-c86d97ec-e7e5-4ce6-a244-8dcfc0b6a52e.png)
 
 <p align="left"> <a href="https://twitter.com/_harshrajgupta_" target="blank"><img src="https://img.shields.io/twitter/follow/_harshrajgupta_?logo=twitter&style=for-the-badge" alt="_harshrajgupta_" /></a> </p>
 <br>
@@ -80,9 +81,8 @@
 <br/><br/>
 <!-- [![trophy](https://holopin.io/api/user/board?user=_harshrajgupta_)](https://github.com/harshrajgupta) -->
 <!-- [![@rphi's Holopin board](https://holopin.io/api/user/board?user=rphi)](https://holopin.io/_harshrajgupta_) -->
-![board](https://user-images.githubusercontent.com/85221003/196502249-c86d97ec-e7e5-4ce6-a244-8dcfc0b6a52e.png)
 
-<br/>
+<!-- <br/> -->
 <img src="https://activity-graph.herokuapp.com/graph?username=harshrajgupta&theme=react-dark" alt="Harsh's contribution graph(ig u should refresh🧐! or come back later🐱‍💻)">
 <p align="center">
 <img height="192px" width="600px" src="https://github-readme-streak-stats.herokuapp.com/?user=HarshRajGupta&theme=tokyonight" alt="ig u should refresh🧐! or come back later🐱‍💻" /><br>
