@@ -28,7 +28,7 @@
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshrajgupta&label=Profile%20views&color=0e75b6&style=flat" alt="harshrajgupta" /> </p>
 
-[![Holopin](https://holopin.io/api/user/board?user=_harshrajgupta_)](https://holopin.io/_harshrajgupta_)
+[![@_harshrajgupta_'s Holopin board](https://holopin.me/_harshrajgupta_)](https://holopin.io/@_harshrajgupta_)
 [![trophy](https://github-profile-trophy.vercel.app/?username=harshrajgupta&theme=onedark)](https://github.com/harshrajgupta)
 
 <p align="left"> <a href="https://twitter.com/_harshrajgupta_" target="blank"><img src="https://img.shields.io/twitter/follow/_harshrajgupta_?logo=twitter&style=for-the-badge" alt="_harshrajgupta_" /></a> </p>
