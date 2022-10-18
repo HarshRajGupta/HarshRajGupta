@@ -78,7 +78,8 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 </p>
 <br><br>
-[![trophy](https://holopin.io/api/user/board?user=_harshrajgupta_)](https://github.com/harshrajgupta)
+<!-- [![trophy](https://holopin.io/api/user/board?user=_harshrajgupta_)](https://github.com/harshrajgupta) -->
+[![@rphi's Holopin board](https://holopin.io/api/user/board?user=rphi)](https://holopin.io/_harshrajgupta_)
 <img src="https://activity-graph.herokuapp.com/graph?username=harshrajgupta&theme=react-dark" alt="Harsh's contribution graph(ig u should refresh🧐! or come back later🐱‍💻)">
 <p align="center">
 <img height="192px" width="600px" src="https://github-readme-streak-stats.herokuapp.com/?user=HarshRajGupta&theme=tokyonight" alt="ig u should refresh🧐! or come back later🐱‍💻" /><br>
