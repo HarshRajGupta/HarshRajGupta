@@ -16,6 +16,7 @@
 <!-- <img align="center" src="https://user-images.githubusercontent.com/85221003/153200217-948f88a2-5c0a-461c-8c54-3a321684dee9.gif" alt="HarshRajGupta"/> -->
 <h2 align="center">A passionate Developer and Competitive Programer from India</h2>
 <br>
+[![HarshRajGupta's Holopin board](https://holopin.io/api/user/board?user=_HarshRajGupta_)](https://holopin.io/_HarshRajGupta_)
 <div>
   
   - 🌱 I’m currently learning **Python**
@@ -28,7 +29,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshrajgupta&label=Profile%20views&color=0e75b6&style=flat" alt="harshrajgupta" /> </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=harshrajgupta&theme=onedark)](https://github.com/harshrajgupta)
-![board](https://user-images.githubusercontent.com/85221003/196502249-c86d97ec-e7e5-4ce6-a244-8dcfc0b6a52e.png)
 
 <p align="left"> <a href="https://twitter.com/_harshrajgupta_" target="blank"><img src="https://img.shields.io/twitter/follow/_harshrajgupta_?logo=twitter&style=for-the-badge" alt="_harshrajgupta_" /></a> </p>
 <br>
