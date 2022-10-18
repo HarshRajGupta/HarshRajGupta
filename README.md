@@ -78,7 +78,7 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 </p>
 <br><br>
-[![My's Holopin board](https://holopin.io/api/user/board?user=_HarshRajGupta_)](https://holopin.io/_HarshRajGupta_)
+[![My's Holopin board](https://holopin.io/api/user/board?user=_harshrajgupta_)](https://holopin.io/_harshrajhupta_)
 <img src="https://activity-graph.herokuapp.com/graph?username=harshrajgupta&theme=react-dark" alt="Harsh's contribution graph(ig u should refresh🧐! or come back later🐱‍💻)">
 <p align="center">
 <img height="192px" width="600px" src="https://github-readme-streak-stats.herokuapp.com/?user=HarshRajGupta&theme=tokyonight" alt="ig u should refresh🧐! or come back later🐱‍💻" /><br>
