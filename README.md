@@ -6,6 +6,7 @@
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="48">
   , I am Harsh
 </h1>
+<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Programmer+%26+Web+Developer"></h3>
 <div align="center" width="100%">
   <img align="center" src="https://user-images.githubusercontent.com/85221003/156927272-0c54db85-436c-4e95-b0b9-9959978a1f5d.gif" width="512" alt="HarshRajGupta"/>
 </div>
