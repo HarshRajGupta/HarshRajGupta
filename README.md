@@ -1,97 +1,99 @@
 <!-- # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> -->
 <!-- 👋 -->
 <!-- ![img](https://user-images.githubusercontent.com/85221003/148334487-56cd1ef4-0794-4687-9641-7367a73515b3.gif) -->
-<h1 align="center">
-  Hi
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="48">
-  , I am Harsh
-</h1>
-<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Competetive+Programmer+%26+Web+Developer"></h3>
+
+# **Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="36"> I am _Harsh_**
+
 <div align="center" width="100%">
-  <img align="center" src="https://user-images.githubusercontent.com/85221003/156927272-0c54db85-436c-4e95-b0b9-9959978a1f5d.gif" width="512" alt="HarshRajGupta"/>
+
+<img align="center" src="https://user-images.githubusercontent.com/85221003/156927272-0c54db85-436c-4e95-b0b9-9959978a1f5d.gif" width="69%" alt="HarshRajGupta"/>
+
+![A passionate Developer and Competitive Programer](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Competetive+Prog.+%26+Web+Developer)
+
 </div>
+<!-- <h2 align="center">A passionate Developer and Competitive Programer from India</h2> -->
 
-<!-- ![image](https://user-images.githubusercontent.com/85221003/156927272-0c54db85-436c-4e95-b0b9-9959978a1f5d.gif) -->
+[![Profile Views](https://komarev.com/ghpvc/?username=harshrajgupta&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/harshRajGupta)
 
-<!-- ![img-unscreen](https://user-images.githubusercontent.com/85221003/153200217-948f88a2-5c0a-461c-8c54-3a321684dee9.gif) -->
-<!-- <img align="center" src="https://user-images.githubusercontent.com/85221003/153200217-948f88a2-5c0a-461c-8c54-3a321684dee9.gif" alt="HarshRajGupta"/> -->
-<h2 align="center">A passionate Developer and Competitive Programer from India</h2>
 <br>
-
-<p>
-  - 🌱 I’m currently learning **Python**
-  
-  - 💬 Ask me about **C++, C, HTML, CSS, JavaScript**
-  
-  - 📫 How to reach me **HarshRajGupta@hotmail.com**
-</p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshrajgupta&label=Profile%20views&color=0e75b6&style=flat" alt="harshrajgupta" /> </p>
 
 [![@_harshrajgupta_'s Holopin board](https://holopin.me/_harshrajgupta_)](https://holopin.io/@_harshrajgupta_)
-<br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=harshrajgupta&theme=onedark)](https://github.com/harshrajgupta)
 
-<p align="left"> <a href="https://twitter.com/_harshrajgupta_" target="blank"><img src="https://img.shields.io/twitter/follow/_harshrajgupta_?logo=twitter&style=for-the-badge" alt="_harshrajgupta_" /></a> </p>
 <br>
 
-<h2 align="left">Connect with me:</h2>
+<!-- <br/> -->
+<div align="center">
 
-<div>
-  <a href="https://twitter.com/_harshrajgupta_" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_harshrajgupta_" height="30px" width="40px" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/harsh-raj-gupta-27a880211" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harsh-raj-gupta-27a880211" height="30px" width="40px" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/_harshrajgupta_" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harsh.raj.gupta" height="30px" width="40px"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.codechef.com/users/HarshRajGupta" target="blank">
-    <img align="center" src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" alt="harsh_rg" height="30" color="#fff"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/@h_raj220202" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@h_raj220202" height="30px" width="40px" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://discord.gg/harsh#2596" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="harsh#2596" height="30px" width="40px" />
-  </a>
 </div>
 <br>
-<h2 align="left">Languages and Tools</h2>
-<p align="justify"> 
+
+# 🚀 Languages and Tools:
+
+<p>
+<img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDb"/>
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="NodeJs"/><img src="https://img.icons8.com/plasticine/48/000000/react.png" alt="React"/>
+  <img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="Javascript"/></a> 
+  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/> </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/> </a> 
+  <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap"/> </a> 
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"/>
+  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python"/>
+  <img src="https://img.icons8.com/color/48/000000/sass.png" alt="SASS"/><img src="https://img.icons8.com/color/48/000000/material-ui.png" alt="Material-UI"/>
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/>
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
   <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
   <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
   <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+
 </p>
-<br/><br/>
-<!-- [![trophy](https://holopin.io/api/user/board?user=_harshrajgupta_)](https://github.com/harshrajgupta) -->
-<!-- [![@rphi's Holopin board](https://holopin.io/api/user/board?user=rphi)](https://holopin.io/_harshrajgupta_) -->
 
-<!-- <br/> -->
-<img src="https://activity-graph.herokuapp.com/graph?username=harshrajgupta&theme=react-dark" alt="Harsh's contribution graph(ig u should refresh🧐! or come back later🐱‍💻)">
-<p align="center">
-<img height="192px" width="600px" src="https://github-readme-streak-stats.herokuapp.com/?user=HarshRajGupta&theme=tokyonight" alt="ig u should refresh🧐! or come back later🐱‍💻" /><br>
-<img alt="Harsh's most used language(ig u should refresh🧐! or come back later🐱‍💻)" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshRajGupta&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true" height="192px" width="340px"/></a>
-</p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=HarshRajGupta&show_icons=true&theme=radical" alt="ig u should refresh🧐! or come back later🐱‍💻" /></p>
+<br>
 
-## 🙋‍ Connect with me:
+# 💻 GitHub Profile Stats
 
+<div align="center">
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=harshrajgupta&theme=onedark)](https://github.com/harshrajgupta)
+
+[![Harsh's contribution graph](https://github-readme-stats.vercel.app/api?username=HarshRajGupta&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/harshrajgupta)
+[![Harsh's contribution graph](https://github-readme-streak-stats.herokuapp.com/?user=HarshRajGupta&theme=tokyonight&hide_border=true)](https://github.com/harshrajgupta)
+[![Harsh's contribution graph](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshRajGupta&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/harshrajgupta)
+
+[![Harsh's contribution graph](https://activity-graph.herokuapp.com/graph?username=harshrajgupta&theme=react-dark)](https://github.com/harshrajgupta)
+
+<!-- <a href="https://github.com/tanuj-kalonia">
+    <img align="center" alt="Tanuj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=HarshRajGupta&show_icons=true&theme=tokyonight&hide_border=true" height="192px"/>
+</a>
+<a href="https://github.com/tanuj-kalonia">
+    <img align="center" height="192px" alt="Tanuj3662 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshRajGupta&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true" />
+</a> -->
+
+<!-- [![Harsh's contribution graph](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshRajGupta&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/harshrajgupta) -->
+
+<!-- [![Harsh's contribution graph](https://github-readme-stats.vercel.app/api?username=HarshRajGupta&show_icons=true&theme=radical)](https://github.com/harshrajgupta) -->
+
+<!-- [![Harsh's contribution graph](https://github-readme-stats.vercel.app/api?username=HarshRajGupta&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/harshrajgupta) -->
+
+</div>
+
+<br>
+
+# 🙋‍ Connect with Me on:
+
+[![HarshR4jGupta@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:HarshR4jGupta@gmail.com)
+[![HarshR4jGupta@gmail.com](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Harsh-Raj-Gupta/)
+[![HarshR4jGupta@gmail.com](https://img.shields.io/badge/Harsh-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_HarshRajGupta)
+[![HarshR4jGupta@gmail.com](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/harsh_raj_gupta)
+[![HarshR4jGupta@gmail.com](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/HarshRajGupta)
+[![HarshR4jGupta@gmail.com](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://codechef.com/users/HarshRajGupta)
+[![HarshR4jGupta@gmail.com](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/HarshR4jGupta)
+[![HarshR4jGupta@gmail.com](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/harsh#2596)
+[![HarshR4jGupta@gmail.com](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917607642202)
+[![Follow @_HarshRajGupta_](https://img.shields.io/twitter/follow/_harshrajgupta_?logo=twitter&style=for-the-badge)](https://twitter.com/_harshrajgupta_)
