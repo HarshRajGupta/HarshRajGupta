@@ -6,7 +6,7 @@
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="48">
   , I am Harsh
 </h1>
-<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Programmer+%26+Web+Developer"></h3>
+<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Competetive+Programmer+%26+Web+Developer"></h3>
 <div align="center" width="100%">
   <img align="center" src="https://user-images.githubusercontent.com/85221003/156927272-0c54db85-436c-4e95-b0b9-9959978a1f5d.gif" width="512" alt="HarshRajGupta"/>
 </div>
@@ -18,18 +18,18 @@
 <h2 align="center">A passionate Developer and Competitive Programer from India</h2>
 <br>
 
-<div>
-  
+<p>
   - 🌱 I’m currently learning **Python**
   
   - 💬 Ask me about **C++, C, HTML, CSS, JavaScript**
   
   - 📫 How to reach me **HarshRajGupta@hotmail.com**
-</div>
-<br>
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshrajgupta&label=Profile%20views&color=0e75b6&style=flat" alt="harshrajgupta" /> </p>
 
 [![@_harshrajgupta_'s Holopin board](https://holopin.me/_harshrajgupta_)](https://holopin.io/@_harshrajgupta_)
+<br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=harshrajgupta&theme=onedark)](https://github.com/harshrajgupta)
 
 <p align="left"> <a href="https://twitter.com/_harshrajgupta_" target="blank"><img src="https://img.shields.io/twitter/follow/_harshrajgupta_?logo=twitter&style=for-the-badge" alt="_harshrajgupta_" /></a> </p>
@@ -91,3 +91,7 @@
 <img alt="Harsh's most used language(ig u should refresh🧐! or come back later🐱‍💻)" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshRajGupta&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true" height="192px" width="340px"/></a>
 </p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=HarshRajGupta&show_icons=true&theme=radical" alt="ig u should refresh🧐! or come back later🐱‍💻" /></p>
+
+## 🙋‍ Connect with me:
+
+
