@@ -18,9 +18,13 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=harshrajgupta&label=Profile%20Views&color=brightgreen&style=flat)](https://github.com/harshRajGupta)
 
-<img src="https://github-profile-trophy.vercel.app/?username=harshrajgupta&theme=monokai&column=7" width="100%" alt="HarshRajGupta" />
+<a href="github.com/harshRajGupta">
+  <img src="https://github-profile-trophy.vercel.app/?username=harshrajgupta&theme=monokai&column=7" width="100%" alt="HarshRajGupta" />
+</a>
 
+<a href="github.com/harshRajGupta">
 <img src="https://holopin.me/_harshrajgupta_" width="100%" alt="@_HarshRajGupta_'s Holopin board" />
+</a>
 <!-- ![trophy]() -->
 
 <!-- [![@_harshrajgupta_'s Holopin board](https://holopin.me/_harshrajgupta_)](https://holopin.io/@_harshrajgupta_) -->
@@ -34,10 +38,10 @@
 <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDb" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="NodeJs"/>
 <img src="https://img.icons8.com/plasticine/48/000000/react.png" width="40" height="40" alt="React"/>
 <img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux" width="40" height="40"/>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="Javascript" width="40" height="40"/></a> 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="40" height="40"/> </a> 
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="Javascript" width="40" height="40"/></a>
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="40" height="40"/> </a>
+<a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="40" height="40"/> </a>
 <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="40" height="40" />
 <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" width="40" height="40"/>
@@ -48,9 +52,9 @@
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
+<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 
@@ -61,13 +65,19 @@
 
 #
 
+<a href="github.com/harshRajGupta">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HarshRajGupta&theme=tokyonight" width="100%" alt="HarshRajGupta" />
+</a>
 
 <!-- [![Harsh's contribution graph](https://github-readme-streak-stats.herokuapp.com/?user=HarshRajGupta&theme=tokyonight&hide_border=true)](https://github.com/harshrajgupta) -->
 
+<a href="github.com/harshRajGupta">
 <img src="https://github-readme-stats.vercel.app/api?username=HarshRajGupta&show_icons=true&theme=tokyonight&hide_border=true" width="57.5%" alt="HarshRajGupta" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshRajGupta&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true" width="42%" alt="HarshRajGupta"/>
+</a>
 
+<a href="github.com/harshRajGupta">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HarshRajGupta&theme=tokyonight&utcOffset=8" width="39.7%" alt="HarshRajGupta" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshRajGupta&theme=tokyonight&hide_border=true" width="59.3%" alt="HarshRajGupta"/>
+</a>
 
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshRajGupta&theme=tokyonight&hide_border=true" width="49%" alt="HarshRajGupta" /> -->
 
