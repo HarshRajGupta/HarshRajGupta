@@ -33,8 +33,6 @@
 
 ## 🚀 Languages and Tools:
 
-#
-
 <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDb" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="NodeJs"/>
 <img src="https://img.icons8.com/plasticine/48/000000/react.png" width="40" height="40" alt="React"/>
 <img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux" width="40" height="40"/>
@@ -62,8 +60,6 @@
 <br>
 
 ## 💻 GitHub Profile Stats
-
-#
 
 <a href="github.com/harshRajGupta">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HarshRajGupta&theme=tokyonight" width="100%" alt="HarshRajGupta" />
@@ -106,8 +102,6 @@
 <br>
 
 ## 🙋‍ Connect with Me
-
-#
 
 [![HarshR4jGupta@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:HarshR4jGupta@gmail.com)
 [![HarshR4jGupta@gmail.com](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Harsh-Raj-Gupta/)
