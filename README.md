@@ -65,10 +65,10 @@
 
 <!-- [![Harsh's contribution graph](https://github-readme-streak-stats.herokuapp.com/?user=HarshRajGupta&theme=tokyonight&hide_border=true)](https://github.com/harshrajgupta) -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=HarshRajGupta&show_icons=true&theme=tokyonight&hide_border=true" width="57%" alt="HarshRajGupta" />
+<img src="https://github-readme-stats.vercel.app/api?username=HarshRajGupta&show_icons=true&theme=tokyonight&hide_border=true" width="50%" alt="HarshRajGupta" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshRajGupta&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true" width="42%" alt="HarshRajGupta"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HarshRajGupta&theme=tokyonight&utcOffset=8" width="39.7%" alt="HarshRajGupta" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HarshRajGupta&theme=tokyonight&utcOffset=8" width="30.7%" alt="HarshRajGupta" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshRajGupta&theme=tokyonight&hide_border=true" width="59.3%" alt="HarshRajGupta"/>
 
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshRajGupta&theme=tokyonight&hide_border=true" width="49%" alt="HarshRajGupta" /> -->
