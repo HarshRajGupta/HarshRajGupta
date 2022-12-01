@@ -31,13 +31,15 @@
 
 #
 
-<img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDb" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="NodeJs"/><img src="https://img.icons8.com/plasticine/48/000000/react.png" width="40" height="40" alt="React"/>
+<img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDb" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="NodeJs"/>
+<img src="https://img.icons8.com/plasticine/48/000000/react.png" width="40" height="40" alt="React"/>
 <img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux" width="40" height="40"/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="Javascript" width="40" height="40"/></a> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="40" height="40"/> </a> 
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="40" height="40"/> </a> 
-<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"width="40" height="40" />
+<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="40" height="40" />
 <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/sass.png" alt="SASS" width="40" height="40"/>
