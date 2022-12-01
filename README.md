@@ -31,8 +31,7 @@
 
 #
 
-<img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDb" width="40" height="40"/>
-<img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="NodeJs"/>
+<img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDb" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="NodeJs"/>
 <img src="https://img.icons8.com/plasticine/48/000000/react.png" width="40" height="40" alt="React"/>
 <img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux" width="40" height="40"/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="Javascript" width="40" height="40"/></a> 
