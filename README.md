@@ -2,7 +2,7 @@
 <!-- 👋 -->
 <!-- ![img](https://user-images.githubusercontent.com/85221003/148334487-56cd1ef4-0794-4687-9641-7367a73515b3.gif) -->
 
-# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="36">, **I am _Harsh_**
+# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="36">, **I am `Harsh`**
 
 ## <div align="center" width="100%"> <img src="https://user-images.githubusercontent.com/85221003/156927272-0c54db85-436c-4e95-b0b9-9959978a1f5d.gif" width="69%" alt="HarshRajGupta"/> </div>
 
