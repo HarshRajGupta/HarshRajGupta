@@ -2,7 +2,7 @@
 <!-- 👋 -->
 <!-- ![img](https://user-images.githubusercontent.com/85221003/148334487-56cd1ef4-0794-4687-9641-7367a73515b3.gif) -->
 
-# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="36">, **I am `Harsh`**
+# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="36">, **I am _`Harsh`_**
 
 ## <div align="center" width="100%"> <img src="https://user-images.githubusercontent.com/85221003/156927272-0c54db85-436c-4e95-b0b9-9959978a1f5d.gif" width="69%" alt="HarshRajGupta"/> </div>
 
@@ -31,7 +31,7 @@
 
 <br>
 
-## 🚀 Languages and Tools:
+## 🚀 **Languages and Tools:**
 
 <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDb" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="NodeJs"/>
 <img src="https://img.icons8.com/plasticine/48/000000/react.png" width="40" height="40" alt="React"/>
@@ -59,7 +59,7 @@
 <br>
 <br>
 
-## 💻 GitHub Profile Stats
+## 💻 **GitHub Profile Stats**
 
 <a href="github.com/harshRajGupta">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HarshRajGupta&theme=tokyonight" width="100%" alt="HarshRajGupta" />
@@ -101,7 +101,7 @@
 
 <br>
 
-## 🙋‍ Connect with Me
+## 🙋‍ **Connect with Me**
 
 [![HarshR4jGupta@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:HarshR4jGupta@gmail.com)
 [![HarshR4jGupta@gmail.com](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Harsh-Raj-Gupta/)
