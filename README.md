@@ -105,8 +105,8 @@
 ## 🙋‍ **Connect with Me**
 
 [![HarshR4jGupta@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:HarshR4jGupta@gmail.com)
-[![HarshR4jGupta@gmail.com](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Harsh-Raj-Gupta/)
-[![HarshR4jGupta@gmail.com](https://img.shields.io/badge/Harsh-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_HarshRajGupta)
+[![Harsh-Raj-Gupta](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Harsh-Raj-Gupta/)
+[![HarshR4jGupta@gmail.com](https://img.shields.io/badge/Harsh-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_HarshRajGupta_)
 [![HarshR4jGupta@gmail.com](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/harsh_raj_gupta)
 [![HarshR4jGupta@gmail.com](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/HarshRajGupta)
 [![HarshR4jGupta@gmail.com](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://codechef.com/users/HarshRajGupta)
