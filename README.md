@@ -85,7 +85,7 @@
 <!-- [![Harsh's contribution graph](https://github-readme-stats.vercel.app/api?username=HarshRajGupta&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/harshrajgupta) -->
 <!-- [![Harsh's contribution graph](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshRajGupta&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/harshrajgupta) -->
 
-[![Harsh's contribution graph](https://activity-graph.herokuapp.com/graph?username=harshrajgupta&theme=tokyo-night)](https://github.com/harshrajgupta)
+[![Harsh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HarshRajGupta&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- <a href="https://github.com/tanuj-kalonia">
     <img align="center" alt="Tanuj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=HarshRajGupta&show_icons=true&theme=tokyonight&hide_border=true" height="192px"/>
