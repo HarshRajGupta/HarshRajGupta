@@ -73,7 +73,7 @@
 </a>
 
 <a href="github.com/harshRajGupta">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HarshRajGupta&theme=tokyonight&utcOffset=8" width="39.7%" alt="HarshRajGupta" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshRajGupta&theme=tokyonight&hide_border=true" width="59.3%" alt="HarshRajGupta"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HarshRajGupta&theme=react-dark&utcOffset=8" width="39.7%" alt="HarshRajGupta" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshRajGupta&theme=tokyonight&hide_border=true" width="59.3%" alt="HarshRajGupta"/>
 </a>
 
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshRajGupta&theme=tokyonight&hide_border=true" width="49%" alt="HarshRajGupta" /> -->
