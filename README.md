@@ -69,7 +69,7 @@
 <!-- [![Harsh's contribution graph](https://github-readme-streak-stats.herokuapp.com/?user=HarshRajGupta&theme=tokyonight&hide_border=true)](https://github.com/harshrajgupta) -->
 
 <a href="github.com/harshRajGupta">
-<img src="https://github-readme-stats.vercel.app/api?username=HarshRajGupta&show_icons=true&theme=holi&hide_border=true" width="59.5%" alt="HarshRajGupta" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshRajGupta&langs_count=8&count_private=true&layout=compact&theme=holi&hide_border=true" width="40%" alt="HarshRajGupta"/>
+<img src="https://github-readme-stats.vercel.app/api?username=HarshRajGupta&show_icons=true&theme=holi&hide_border=true" width="59.5%" alt="HarshRajGupta" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshRajGupta&langs_count=8&count_private=true&layout=compact&theme=holi&hide_border=true" width="39.5%" alt="HarshRajGupta"/>
 </a>
 
 <a href="github.com/harshRajGupta">
